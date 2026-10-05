@@ -8,7 +8,7 @@ El sistema busca facilitar el aprendizaje mediante herramientas capaces de respo
 
 ## 🤖 Nuestro asistente
 
-![Robot estudiante](./robot%20estudiante.png)
+![Robot estudiante](./robot%20estudiente.png)
 
 ## 🎯 Objetivo
 
