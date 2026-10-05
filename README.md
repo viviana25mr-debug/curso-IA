@@ -1,36 +1,36 @@
-# 🤖 Asistente Inteligente para Estudiantes
+# Asistente Inteligente para Estudiantes
 
 ## Resumen
 
 Este proyecto es un **Asistente Inteligente para Estudiantes** basado en Inteligencia Artificial. Permite que el usuario escriba preguntas sobre sus actividades académicas y reciba explicaciones y recomendaciones de estudio de forma rápida e interactiva. Fue desarrollado como proyecto de un curso de Inteligencia Artificial.
 
 
-...
-## 📚 Descripción del proyecto
+
+## Descripción del proyecto
 
 Este proyecto consiste en el desarrollo de un **Asistente Inteligente para Estudiantes**, una aplicación basada en Inteligencia Artificial cuyo propósito es apoyar a los estudiantes en sus actividades académicas.
 
 El sistema busca facilitar el aprendizaje mediante herramientas capaces de responder preguntas, proporcionar explicaciones y generar recomendaciones relacionadas con el estudio.
 
-## 🤖 Nuestro asistente
+## Nuestro asistente
 
 ![Robot estudiante](./robot%20estudiente.png)
 
-## 🎯 Objetivo
+## Objetivo
 
 Desarrollar una aplicación que utilice técnicas de **Inteligencia Artificial** para proporcionar apoyo académico a los estudiantes de una manera rápida, sencilla e interactiva.
 
-## ❓ Problema que se busca resolver
+## Problema que se busca resolver
 
 Los estudiantes pueden tener dificultades para organizar sus actividades, comprender algunos temas o encontrar rápidamente información que les ayude con sus tareas.
 
 Por medio de la Inteligencia Artificial se busca crear una herramienta que funcione como apoyo durante el proceso de aprendizaje.
 
-## 🧠 ¿Qué es la Inteligencia Artificial?
+## ¿Qué es la Inteligencia Artificial?
 
 La Inteligencia Artificial es una rama de la informática que busca desarrollar sistemas capaces de realizar tareas que normalmente requieren habilidades asociadas con la inteligencia humana, como comprender información, reconocer patrones, aprender y generar respuestas.
 
-## ⚙️ Funcionamiento del proyecto
+##  Funcionamiento del proyecto
 
 El usuario podrá ingresar una pregunta o solicitud relacionada con sus actividades académicas.
 
@@ -39,30 +39,30 @@ El sistema procesará la información utilizando un modelo de Inteligencia Artif
 ### Flujo básico
 
 ```text
-👩‍🎓 Usuario
+ Usuario
      ↓
-📝 Pregunta o solicitud
+ Pregunta o solicitud
      ↓
-🤖 Sistema de Inteligencia Artificial
+ Sistema de Inteligencia Artificial
      ↓
-🧠 Procesamiento de la información
+ Procesamiento de la información
      ↓
-💬 Respuesta
+ Respuesta
      ↓
-👩‍🎓 Usuario
+ Usuario
 ```
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 Las principales tecnologías que pueden utilizarse para desarrollar el proyecto son:
 
-* 🐍 Python
-* 🤖 Inteligencia Artificial
-* 🧠 Modelos de lenguaje
-* 📊 Procesamiento de datos
-* 🌐 GitHub
+*  Python
+*  Inteligencia Artificial
+*  Modelos de lenguaje
+*  Procesamiento de datos
+*  GitHub
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 
 ```text
 asistente-inteligente/
@@ -77,7 +77,7 @@ asistente-inteligente/
 └── imagenes/
 ```
 
-## 🚀 Instalación
+##  Instalación
 
 ### 1. Clonar el repositorio
 
@@ -103,7 +103,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## 💡 Ejemplo de uso
+##  Ejemplo de uso
 
 El usuario puede realizar preguntas como:
 
@@ -118,7 +118,7 @@ que normalmente requieren inteligencia humana.
 
 También se pueden realizar preguntas relacionadas con diferentes materias y solicitar explicaciones de temas.
 
-## ✅ Ventajas
+##  Ventajas
 
 * Facilita el acceso a información.
 * Puede proporcionar explicaciones de diferentes temas.
@@ -126,23 +126,23 @@ También se pueden realizar preguntas relacionadas con diferentes materias y sol
 * Puede utilizarse como herramienta de apoyo académico.
 * Puede ampliarse con nuevas funciones.
 
-## ⚠️ Limitaciones
+##  Limitaciones
 
 La Inteligencia Artificial no sustituye al profesor ni al proceso de aprendizaje del estudiante.
 
 Las respuestas generadas por un sistema de IA pueden contener errores, por lo que la información importante debe ser revisada y contrastada con fuentes confiables.
 
-## 🔮 Mejoras futuras
+##  Mejoras futuras
 
 En futuras versiones se podrían agregar:
 
-* 📅 Organización de tareas.
-* ⏰ Recordatorios de actividades.
-* 📖 Generación de resúmenes.
-* 📝 Generación de preguntas para estudiar.
-* 🎤 Interacción mediante voz.
-* 📊 Registro del progreso académico.
-* 🌐 Interfaz web.
+*  Organización de tareas.
+*  Recordatorios de actividades.
+*  Generación de resúmenes.
+*  Generación de preguntas para estudiar.
+*  Interacción mediante voz.
+*  Registro del progreso académico.
+*  Interfaz web.
 * 👤 Personalización para cada estudiante.
 
 ## 🎓 Finalidad académica
