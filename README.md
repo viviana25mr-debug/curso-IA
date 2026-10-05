@@ -1,5 +1,11 @@
-# 🤖 Asistente Inteligente para Estudiantes
+# 🤖 Asistente Inteligente para Estudiante
 
+## Resumen
+
+Este proyecto es un **Asistente Inteligente para Estudiantes** basado en Inteligencia Artificial. Permite que el usuario escriba preguntas sobre sus actividades académicas y reciba explicaciones y recomendaciones de estudio de forma rápida e interactiva. Fue desarrollado en Python como proyecto de un curso de Inteligencia Artificial, con el fin de explorar el uso de la IA en la educación.
+
+## 📚 Descripción del proyecto
+...
 ## 📚 Descripción del proyecto
 
 Este proyecto consiste en el desarrollo de un **Asistente Inteligente para Estudiantes**, una aplicación basada en Inteligencia Artificial cuyo propósito es apoyar a los estudiantes en sus actividades académicas.
