@@ -149,3 +149,4 @@ Proyecto académico de Inteligencia Artificial.
 
 ⭐ *Proyecto desarrollado con fines educativos para aprender y experimentar con Inteligencia Artificial.*
 
+![image robotestudiente](/robotestudiente.png)
