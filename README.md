@@ -6,6 +6,10 @@ Este proyecto consiste en el desarrollo de un **Asistente Inteligente para Estud
 
 El sistema busca facilitar el aprendizaje mediante herramientas capaces de responder preguntas, proporcionar explicaciones y generar recomendaciones relacionadas con el estudio.
 
+## 🤖 Nuestro asistente
+
+![Robot estudiante](./robot%20estudiante.png)
+
 ## 🎯 Objetivo
 
 Desarrollar una aplicación que utilice técnicas de **Inteligencia Artificial** para proporcionar apoyo académico a los estudiantes de una manera rápida, sencilla e interactiva.
@@ -149,4 +153,4 @@ Proyecto académico de Inteligencia Artificial.
 
 ⭐ *Proyecto desarrollado con fines educativos para aprender y experimentar con Inteligencia Artificial.*
 
-![image robotestudiant](/robot-estudiante.png)
+
